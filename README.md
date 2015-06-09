@@ -1,0 +1,2 @@
+# CharInfo
+Get Char Info
